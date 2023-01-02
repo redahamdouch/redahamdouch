@@ -1,7 +1,7 @@
 ## Hello World ! I'm Réda Hamdouch 👋.
 
 - I am an engineer with a major in computer science and I am currently pursuing the Msc Big Data & Business Analytics at ESCP Business School, Paris & Berlin
-- **Project I am currently working on:** With my team, we are participating in the SCOR Datathon which theme is ESG rating for listed companies. It is a Data Science competition between the top schools in France (Polytechnique, CentraleSupéléc, Télécom Paris, HEC,ESSEC,ESCP).
+- **Project I am currently working on:** With my team, we are participating in the SCOR Datathon which theme is ESG rating for listed companies. It is a Data Science competition between the top schools in France (Polytechnique, CentraleSupéléc, Télécom Paris, HEC, ESSEC, ESCP).
 - I am looking for an internship / full time position that would start in July 2023. To contact me : 
 
     - 📞 +33 6 13 69 83 93
@@ -19,7 +19,8 @@ In this portfolio, I put at your disposal the following projects:
 ![Snapchots of the Rubik's cube solver](imgs/rubik.png)
 *Snapchots of the Rubik's cube solver. Left: Acqusition phase, Right: 3D Modelisation phase*
 ![Rubik's cuve solver](imgs/solving2.gif)
-*Gif showing some steps towards the resolution of the Rubiks cube produced by our modelling*
+
+- *Gif showing some steps towards the resolution of the Rubiks cube produced by our modelling*
 
 
 ### [Analytics with Pandas](https://github.com/redahamdouch/Analytics_pandas)
