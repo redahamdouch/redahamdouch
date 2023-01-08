@@ -22,6 +22,12 @@ In this portfolio, I put at your disposal the following projects:
 
 - *Gif showing some steps towards the resolution of the Rubiks cube produced by our modelling*
 
+### [Image Search Engine](https://github.com/redahamdouch/image_search_engine)
+- In this project, the objective is to experiment with several methods to characterise an image (VLAD, histogram, bag of visual words) in order to perform image search engines. The tests conducted allow us to characterise each method in terms of accuracy and execution time.
+
+![image-engine](imgs/image-engine.png)
+
+- ***Left**: evolution of recall/precision curves as a function of the size of the vocabulary used, **Middle**: how visual descriptors works, **Right**: evolution of query processing time as a function of vocabulary size.* 
 
 ### [Analytics with Pandas](https://github.com/redahamdouch/Analytics_pandas)
 - This project aims to manipulate a dataset for analytical purposes. The objective is to answer some analytical questions which requires a work of preprocessing, cleaning, manipulation, conversion, visualization of data using Python's Pandas
