@@ -37,7 +37,7 @@ In this portfolio, I put at your disposal the following projects:
 
 ## Other projects : 
 
-### NLP Classfier : Déterminer à quelles catégorie un projet d'innovation appartient.
+### NLP Classfier : Determining to which category an innovation project belongs.
 
 - The objective of this project is to create a tool able to extract the market research categories of an innovation project from its textual description. I carried out this project with the help of transformers (BERT). The final objective is to create a Data Visualisation tool to compute the results of this classification in a dynamic and intuitive way. I therefore opted for a **sunburst diagram**, an example of which is shown below 
 
@@ -49,4 +49,13 @@ A Sunburst diagram is useful for visualising hierarchical data, represented by c
 - The hierarchical relationships between the categories are also represented, going from the centre to the outside of the circle.
 - A colour code is present to distinguish the different meta-categories and the underlying categories (e.g. Telecommunications and Computing and its sub-categories in red, Healthcare and its sub-categories in blue)
 - The relevance of the categories is represented by the shade of the colour: the more relevant the category is, the darker the colour (e.g. Therapeutic Area relevant, Computing and Technology a little less)
+
+
+### Computer Vision model: Home Furniture detection in images
+
+- Trained on about 3000 annotated images, I created an object detection model, able to detect the presence of 26 different pieces of furniture on an image. An example of detection performed by the model is available below: 
+
+![detection](imgs/detection.png)
+
+- This project required a benchmark of several object detection models, in order to get the most out of the state of the art. Since the models needed a lot of computational power, I trained these models on the cloud (AWS).
 
