@@ -28,6 +28,11 @@ In this portfolio, I put at your disposal the following projects:
 ![image-engine](imgs/image-engine.png)
 
 -***Left**: evolution of recall/precision curves as a function of the size of the vocabulary used, **Middle**: how visual descriptors works, **Right**: evolution of query processing time as a function of vocabulary size.* 
+### [Consumer Segmentation with clustering methods](https://github.com/redahamdouch/consumer_cluster_segmentation)
+
+ - The objective of this project is to explore several clustering methods in a marketing context. We wish to segment a sample of consumers into groups with similarities.
+ ![clustering](imgs/clustering.png)
+- ***Left**: Dendogram with a choice of 4 clusters **Middle**: result of segmentation of the dataset according to two parameters **Right**: elbow technique to determine the ideal number of clusters*
 
 ### [Analytics with Pandas](https://github.com/redahamdouch/Analytics_pandas)
 - This project aims to manipulate a dataset for analytical purposes. The objective is to answer some analytical questions which requires a work of preprocessing, cleaning, manipulation, conversion, visualization of data using Python's Pandas
