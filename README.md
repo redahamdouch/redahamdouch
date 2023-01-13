@@ -6,7 +6,7 @@
 
     - 📞 +33 6 13 69 83 93
     - 📧  reda.hamdouch@edu.escp.eu
-    - 👥 [my Linkedin Profile](www.linkedin.com/in/redahamdouch/)
+    - 👥 [my Linkedin Profile](https:/Llinkedin.com/in/redahamdouch/)
 
 Throughout my studies, I have done a number of projects all related to the world of Big Data, whether as part of a group project, or subjects that I wanted to explore out of curiosity
 In this portfolio, I put at your disposal the following projects:   
@@ -33,12 +33,19 @@ In this portfolio, I put at your disposal the following projects:
  - The objective of this project is to explore several clustering methods in a marketing context. We wish to segment a sample of consumers into groups with similarities.
  ![clustering](imgs/clustering.png)
 - ***Left**: Dendogram with a choice of 4 clusters **Middle**: result of segmentation of the dataset according to two parameters **Right**: elbow technique to determine the ideal number of clusters*
+### [Titanic sinking - Classification](https://github.com/redahamdouch/titanic_classifier)
+
+ ![titanic](imgs/titanic.png)
+- ***Left**: Gender distribution of survivors **Middle**: result of segmentation of the dataset according to two parameters **Right**: Correlation matrix*
+
+- This project represents one of my first takes on a classification task using "classical" machine learning models. The subject concerns a well-known challenge in data science: the prediction of the survival of the passengers of the sinking of the titanic.
+- From data analysis, feature engineering, and data transformation to the benchmarking of several models, I was able to achieve **81% accuracy** in prediction using a Support Vector Model.
 
 ### [Analytics with Pandas](https://github.com/redahamdouch/Analytics_pandas)
 - This project aims to manipulate a dataset for analytical purposes. The objective is to answer some analytical questions which requires a work of preprocessing, cleaning, manipulation, conversion, visualization of data using Python's Pandas
 
 ![example of analytics](imgs/analytics.png)
-*example of the code needed for the question: How many acquisitions did the company with the most acquisitions make per year?*
+*example of the output for the question: How many acquisitions did the company with the most acquisitions make per year?*
 
 ## Other projects : 
 
