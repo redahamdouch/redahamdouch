@@ -6,7 +6,7 @@
 
     - 📞 +33 6 13 69 83 93
     - 📧  reda.hamdouch@edu.escp.eu
-    - 👥 [my Linkedin Profile](https:/Llinkedin.com/in/redahamdouch/)
+    - 👥 [my Linkedin Profile](https://www.linkedin.com/in/redahamdouch/)
 
 Throughout my studies, I have done a number of projects all related to the world of Big Data, whether as part of a group project, or subjects that I wanted to explore out of curiosity
 In this portfolio, I put at your disposal the following projects:   
@@ -27,16 +27,17 @@ In this portfolio, I put at your disposal the following projects:
 
 ![image-engine](imgs/image-engine.png)
 
--***Left**: evolution of recall/precision curves as a function of the size of the vocabulary used, **Middle**: how visual descriptors works, **Right**: evolution of query processing time as a function of vocabulary size.* 
+-***Left**: Evolution of recall/precision curves as a function of the size of the vocabulary used, **Middle**: How visual descriptors works, **Right**: Evolution of query processing time as a function of vocabulary size.* 
 ### [Consumer Segmentation with clustering methods](https://github.com/redahamdouch/consumer_cluster_segmentation)
 
  - The objective of this project is to explore several clustering methods in a marketing context. We wish to segment a sample of consumers into groups with similarities.
  ![clustering](imgs/clustering.png)
-- ***Left**: Dendogram with a choice of 4 clusters **Middle**: result of segmentation of the dataset according to two parameters **Right**: elbow technique to determine the ideal number of clusters*
+- ***Left**: Dendogram with a choice of 4 clusters **Middle**: Result of segmentation of the dataset according to two parameters **Right**: Elbow technique to determine the ideal number of clusters*
+
 ### [Titanic sinking - Classification](https://github.com/redahamdouch/titanic_classifier)
 
  ![titanic](imgs/titanic.png)
-- ***Left**: Gender distribution of survivors **Middle**: result of segmentation of the dataset according to two parameters **Right**: Correlation matrix*
+- ***Left**: Gender distribution of survivors **Middle**: Illustration of the sinking of the titanic **Right**: Correlation matrix*
 
 - This project represents one of my first takes on a classification task using "classical" machine learning models. The subject concerns a well-known challenge in data science: the prediction of the survival of the passengers of the sinking of the titanic.
 - From data analysis, feature engineering, and data transformation to the benchmarking of several models, I was able to achieve **81% accuracy** in prediction using a Support Vector Model.
@@ -45,7 +46,9 @@ In this portfolio, I put at your disposal the following projects:
 - This project aims to manipulate a dataset for analytical purposes. The objective is to answer some analytical questions which requires a work of preprocessing, cleaning, manipulation, conversion, visualization of data using Python's Pandas
 
 ![example of analytics](imgs/analytics.png)
-*example of the output for the question: How many acquisitions did the company with the most acquisitions make per year?*
+
+
+*Example of the output for the question: How many acquisitions did the company with the most acquisitions make per year?*
 
 ## Other projects : 
 
