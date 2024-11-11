@@ -1,8 +1,8 @@
 # Hello World ! I'm Réda Hamdouch 👋.
 
-- I am an engineer with a major in computer science and I am currently pursuing the Msc Big Data & Business Analytics at ESCP Business School, Paris & Berlin
-- **Project I am currently working on:** With my team, we are participating in the SCOR Datathon which theme is ESG rating for listed companies. It is a Data Science competition between the top schools in France (Polytechnique, CentraleSupéléc, Télécom Paris, HEC, ESSEC, ESCP).
-- I am looking for an internship / full time position that would start in July 2023. To contact me : 
+- I'm a Data Science Consultant based in Paris, passionate about solving complex problems levragin insifhts from Data. I thrive in environments where both technical and strategic challenges come together to create impactful solutions.
+- **Project I am currently working on: Uber Personal Data viewer**  Using streamit, I'm currently working on a personal project to make personal data collected by Uber more accessible. Under GDPR regulations, users can request their data from companies, but the format is often hard to interpret. My tool simplifies this data, providing users with an intuitive interface to uncover insights that are often hidden or difficult to access. The goal is to empower individuals with a clear view of their own data. I look forward to sharing this project once it has reached its full potential
+- My infos : 
 
     - 📞 +33 6 13 69 83 93
     - 📧  reda.hamdouch@edu.escp.eu
